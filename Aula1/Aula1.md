@@ -1,8 +1,8 @@
 # Aula 1
 
-### Introdução ao Desenvolvimento Web
+## Introdução ao Desenvolvimento Web
 
-#### Arquitetura de um Site
+### Arquitetura de um Site
 
 A arquitetura de um site é como um site é organizado estruturalmente, entre páginas, menus, categorias e fluxos. Dessa forma, contruindo-se uma interface que favorece o usuário. Para isso, é importante definir alguns termos, dos quais são fundamentais para arquitetar um site, sendo eles:
 
@@ -12,7 +12,7 @@ A arquitetura de um site é como um site é organizado estruturalmente, entre p�
 
 - **UX (User Experience)**: Estabelececimento de um conjunto de elementos e estratégias para aprimorar a experiência do usuário. Bucando uma navegação intuitiva, eficiente e agradável.
 
-#### Versionamento e Deploy
+### Versionamento e Deploy
 
 - **Versionamento**: Registros das alterações feitas ao longo do tempo no projeto, chamado também de "controle de versões". Se faz muito importante para permitir um trabalho em equipe mais eficiente através do uso de branches (ramificações). Também, permite o acesso a versões específicas, servindo até mesmo como um "backup", dando espaço para testes que não comprometam o projeto como um todo. A ferramenta mais utilizada para isso é o Git, o qual faz o gerenciamento para o upload do projeto em plataformas como o GitHub, GitLav e BitBucket.
 
@@ -29,13 +29,13 @@ A arquitetura de um site é como um site é organizado estruturalmente, entre p�
     - Monitorar após deploy
     - Ter plano de rollback
 
-#### Introdução ao JavaScript
+### Introdução ao JavaScript
 
 JavaScript é uma linguagem de programação interpretada, criada para tornar páginas web dinâmicas e interativas. Está presente em praticamente toda aplicação moderna atual, devido seu alto poder de manipulação de interface, comunicação com os servidores e APIs.
 
 - **Vanilla JS**: É o JavaScript puro, sem dependencias externas.
 
-##### Frameworks
+#### Frameworks
 
 Framework é uma estrutura pronta de desenvolvimento, a qual provê organização, padronização de código, ferramentas integradas, boas práticas e bibliotecas embutidas.
 
@@ -45,7 +45,7 @@ Framework é uma estrutura pronta de desenvolvimento, a qual provê organizaçã
 
     - Website Builders: São ferramentas que permitem criar sites sem a necessidade de codificação manual. Facilitam o desenvovimento, mas limitam a flexibilidade.
 
-#### Servidores e Hospedagem / CMS
+### Servidores e Hospedagem / CMS
 
 - **Servidor**: É um computador (físico ou virtual) que, armazena arquivos do site, processa requisições e responde usuários via internet.
     - **Servidor Web**: Responsável por entregar arquivos. Exemplo: Apache HTTP Server.
@@ -57,6 +57,6 @@ Framework é uma estrutura pronta de desenvolvimento, a qual provê organizaçã
 
 - **CMS**: É um sistema que permite criar e gerenciar conteúdo sem precisar programar. Fornece: painel administrativo, editor de páginas, sistema de usuários, plugins e temas. O mais utilizado no mundo é o WordPress.
 
-#### Bancos de dados NoSQL
+### Bancos de dados NoSQL
 
 Bancos de dados NoSQL são não-relacionais, ou seja, não seguem o modelo de tabelas fixas e não dependem exclusivamente do SQL. Dessa forma, permitem interações dinâmicas e armazenamento de uma variedade de dados. Além disso, apresenta escalabilidade horizontal, fazendo com que os dados possam ser distribuídos em múltiplos servidores.
